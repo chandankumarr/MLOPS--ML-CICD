@@ -1,2 +1,2 @@
-# MLOPS--ML-CICD
-practice of MLCICD
+# MLOPS--ML-Pipeline
+practice of pipeline
